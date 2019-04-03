@@ -2,3 +2,4 @@
 cmake-build-debug/
 *.csv
 *.txt
+.DS_Store
